@@ -1,4 +1,7 @@
 import React from 'react';
+const services = [
+    { id: 1, name: 'oil change', price: 100, description: '', img: '' }
+]
 
 const Services = () => {
     return (
